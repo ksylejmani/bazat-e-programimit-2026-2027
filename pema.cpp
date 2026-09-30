@@ -11,7 +11,7 @@ int main(){
     // cin>>d3;
     // cout<<"Sa molla jane ne degen 4 te pemes: ";
     // cin>>d4;
-    cout<<"Jepi mollat per te gjitha dege: ";
+    cout<<"Jep numrin e mollave per te gjitha deget: ";
     cin>>d1>>d2>>d3>>d4;
     nm=d1+d2+d3+d4;
     mes=nm/4;

@@ -4,9 +4,9 @@ using namespace std;
 int main(){
    short int brinja, baza;
    int perimetri; float lartesia,syprina,kendi;
-    cout<<"Jepe vleren per bazen e trekendeshit: ";
+    cout<<"Jep vleren per bazen e trekendeshit: ";
     cin>>baza;
-    cout<<"Jepe vleren per krahun e trekendeshit: ";
+    cout<<"Jep vleren per krahun e trekendeshit: ";
     cin>>brinja;
     perimetri=baza+brinja*2;
     lartesia=sqrt(pow(brinja,2)-pow((float)baza/2,2));
