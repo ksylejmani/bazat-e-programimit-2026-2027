@@ -20,6 +20,10 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `softueri_bllok_diagrami.png` | Bllok diagrami i programit `softueri.cpp`. |
 | `softueri_me_kusht.cpp` | Zgjerim i shembullit të mëparshëm: me `if` kontrollon që numri i rreshtave dhe i moduleve të jetë më i madh se 0 (për të shmangur pjesëtimin me zero) dhe llogarit edhe defektet për modul. |
 | `softueri_me_kusht_bllok_diagrami.png` | Bllok diagrami i programit `softueri_me_kusht.cpp`. |
+| `bursa.cpp` | Lexon mesataren e studentes dhe me operatorin e kushtëzuar (`? :`) cakton bursën: 800 nëse mesatarja është së paku 9, përndryshe 0. |
+| `bursa_bllok_diagrami.png` | Bllok diagrami i programit `bursa.cpp`. |
+| `bursa_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: lexon edhe emrin e studentes dhe me `if – else if – else` cakton bursën në tri nivele (800 për mesatare ≥ 9, 400 për mesatare ≥ 7.5, përndryshe 0). |
+| `bursa_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `bursa_me_AI.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
