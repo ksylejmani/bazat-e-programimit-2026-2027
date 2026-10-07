@@ -15,5 +15,7 @@ int main(){
         cout<<"Asnje femije nuk kualifikohet per bonus.\n";
     }
     cout<<"Shuma totale shtesave eshte: "<<shuma_shtesave<<"\n";
+    if(nr_femijeve>0)
+        cout<<"Mesatarja per femije: "<<shuma_shtesave/nr_femijeve<<"\n";
     return 0;
 }

@@ -26,7 +26,7 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `bursa_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `bursa_me_AI.cpp`. |
 | `shtesa.cpp` | Lexon numrin e fëmijëve dhe me `if – else` llogarit shumën e shtesave: 30 për secilin fëmijë, ndërsa nga fëmija i tretë e tutje secili fiton edhe një bonus prej 10. |
 | `shtesa_bllok_diagrami.png` | Bllok diagrami i programit `shtesa.cpp`. |
-| `shtesa_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: në secilën degë të `if – else` shfaq edhe një mesazh, sa fëmijë fitojnë bonus ose që asnjë fëmijë nuk kualifikohet për bonus. |
+| `shtesa_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: në secilën degë të `if – else` shfaq edhe një mesazh, sa fëmijë fitojnë bonus ose që asnjë fëmijë nuk kualifikohet për bonus. Në fund, nëse ka së paku një fëmijë, shfaq edhe mesataren e shtesës për fëmijë. |
 | `shtesa_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `shtesa_me_AI.cpp`. |
 
 ## Si të ekzekutohen shembujt
