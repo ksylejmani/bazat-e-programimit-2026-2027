@@ -28,6 +28,12 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `shtesa_bllok_diagrami.png` | Bllok diagrami i programit `shtesa.cpp`. |
 | `shtesa_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: në secilën degë të `if – else` shfaq edhe një mesazh, sa fëmijë fitojnë bonus ose që asnjë fëmijë nuk kualifikohet për bonus. Në fund, nëse ka së paku një fëmijë, shfaq edhe mesataren e shtesës për fëmijë. |
 | `shtesa_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `shtesa_me_AI.cpp`. |
+| `bankomati.cpp` | Lexon ditën e javës, numrin e personave dhe të bankomatave dhe me `switch` llogarit kohën e pritjes: për ditët e punës (1–5) `5 + 3 · personat / bankomatat`, për fundjavë (6–7) `3 · personat / bankomatat`, ndërsa për ditë të pasaktë shfaq mesazh gabimi (`default`). |
+| `bankomati_bllok_diagrami.png` | Bllok diagrami i programit `bankomati.cpp`. |
+| `bankomati_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: me ciklin `do – while` e lexon ditën përsëri derisa përdoruesi të shkruajë një vlerë nga 1 deri në 7. |
+| `bankomati_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `bankomati_me_AI.cpp`. |
+| `bankomati_me_AI_2.cpp` | Zgjerim i shembullit të mëparshëm: dita lexohet si numër dhjetor dhe refuzohet edhe nëse ka pjesë dhjetore (p.sh. 2.5), duke e krahasuar `dita` me `(int)dita`. |
+| `bankomati_me_AI_2_bllok_diagrami.png` | Bllok diagrami i programit `bankomati_me_AI_2.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
