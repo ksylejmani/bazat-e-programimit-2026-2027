@@ -34,6 +34,10 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `bankomati_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `bankomati_me_AI.cpp`. |
 | `bankomati_me_AI_2.cpp` | Zgjerim i shembullit të mëparshëm: dita lexohet si numër dhjetor dhe refuzohet edhe nëse ka pjesë dhjetore (p.sh. 2.5), duke e krahasuar `dita` me `(int)dita`. |
 | `bankomati_me_AI_2_bllok_diagrami.png` | Bllok diagrami i programit `bankomati_me_AI_2.cpp`. |
+| `card.cpp` | Lexon numrin dhe simbolin e një letre loje dhe me dy `switch` shfaq emrin e letrës: numrat 1, 11, 12 dhe 13 shfaqen si Ace, Jack, Queen dhe King, ndërsa simboli (C, D, H, S, me shkronjë të madhe ose të vogël) si Clubs, Diamonds, Hearts ose Spades. |
+| `card_bllok_diagrami.png` | Bllok diagrami i programit `card.cpp`. |
+| `card_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: me dy cikle `do – while` e lexon numrin përsëri derisa të jetë nga 1 deri në 13 dhe simbolin derisa të jetë C, D, H ose S (me shkronjë të madhe ose të vogël). Kushti për simbolin ruhet në variablën `bool condition`. |
+| `card_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `card_me_AI.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
