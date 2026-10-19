@@ -38,6 +38,8 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `card_bllok_diagrami.png` | Bllok diagrami i programit `card.cpp`. |
 | `card_me_AI.cpp` | Zgjerim i shembullit të mëparshëm: me dy cikle `do – while` e lexon numrin përsëri derisa të jetë nga 1 deri në 13 dhe simbolin derisa të jetë C, D, H ose S (me shkronjë të madhe ose të vogël). Kushti për simbolin ruhet në variablën `bool condition`. |
 | `card_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `card_me_AI.cpp`. |
+| `shuma.cpp` | Lexon numrin e artikujve dhe me ciklin `for` lexon çmimin e secilit artikull dhe llogarit shumën e tyre. Brenda ciklit, me `do – while` çmimi lexohet përsëri derisa të jetë më i madh se 0. |
+| `shuma_bllok_diagrami.png` | Bllok diagrami i programit `shuma.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
