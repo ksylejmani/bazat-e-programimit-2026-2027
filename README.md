@@ -40,6 +40,10 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `card_me_AI_bllok_diagrami.png` | Bllok diagrami i programit `card_me_AI.cpp`. |
 | `shuma.cpp` | Lexon numrin e artikujve dhe me ciklin `for` lexon çmimin e secilit artikull dhe llogarit shumën e tyre. Brenda ciklit, me `do – while` çmimi lexohet përsëri derisa të jetë më i madh se 0. |
 | `shuma_bllok_diagrami.png` | Bllok diagrami i programit `shuma.cpp`. |
+| `cift_tek.cpp` | Lexon numrin `n` dhe me ciklin `for` lexon `n` numra. Për secilin numër kontrollon me `a % 2 == 0` nëse është çift ose tek dhe në fund shfaq sa numra çift (`nc`) dhe sa numra tek (`nt`) janë dhënë. |
+| `cift_tek_bllok_diagrami.png` | Bllok diagrami i programit `cift_tek.cpp`. |
+| `cift_tek_AI.cpp` | Zgjerim i shembullit të mëparshëm: përveç numrit të vlerave çift dhe tek, llogarit edhe shumën e vlerave çift (`sc`) dhe shumën e vlerave tek (`st`). |
+| `cift_tek_AI_bllok_diagrami.png` | Bllok diagrami i programit `cift_tek_AI.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
