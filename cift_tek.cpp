@@ -18,6 +18,6 @@ int main(){
         }
     }
     cout<<"Numri i vlerave cift eshte: "<<nc<<endl;
-    cout<<"NUmri i vlerave tek eshte: "<<nt<<endl;
+    cout<<"Numri i vlerave tek eshte: "<<nt<<endl;
     return 0;
 }
