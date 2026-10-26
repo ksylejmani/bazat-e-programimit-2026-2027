@@ -44,6 +44,8 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `cift_tek_bllok_diagrami.png` | Bllok diagrami i programit `cift_tek.cpp`. |
 | `cift_tek_AI.cpp` | Zgjerim i shembullit të mëparshëm: përveç numrit të vlerave çift dhe tek, llogarit edhe shumën e vlerave çift (`sc`) dhe shumën e vlerave tek (`st`). |
 | `cift_tek_AI_bllok_diagrami.png` | Bllok diagrami i programit `cift_tek_AI.cpp`. |
+| `Mesatarja.cpp` | Lexon vlerën maksimale të lejuar `x` dhe me ciklin `for` lexon shpenzimet për 7 ditë në një varg. Me ciklin `while` llogarit shumën e shpenzimeve dhe del me `break` nëse ndonjë ditë i kalon vlerës `x`. Nëse të gjitha ditët janë brenda kufirit, shfaq mesataren ditore të shpenzimeve; përndryshe shfaq mesazh. |
+| `Mesatarja_bllok_diagrami.png` | Bllok diagrami i programit `Mesatarja.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
