@@ -46,6 +46,10 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `cift_tek_AI_bllok_diagrami.png` | Bllok diagrami i programit `cift_tek_AI.cpp`. |
 | `Mesatarja.cpp` | Lexon vlerën maksimale të lejuar `x` dhe me ciklin `for` lexon shpenzimet për 7 ditë në një varg. Me ciklin `while` llogarit shumën e shpenzimeve dhe del me `break` nëse ndonjë ditë i kalon vlerës `x`. Nëse të gjitha ditët janë brenda kufirit, shfaq mesataren ditore të shpenzimeve; përndryshe shfaq mesazh. |
 | `Mesatarja_bllok_diagrami.png` | Bllok diagrami i programit `Mesatarja.cpp`. |
+| `kollokviumi.cpp` | Me ciklin `for` lexon pikët e 12 studentëve në kollokvium. Brenda ciklit, me `do – while` pikët lexohen përsëri derisa të jenë nga 0 deri në 40. Pastaj me ciklin `while` numëron sa studentë kanë së paku 16 pikë (`kalueshmeria`) dhe shfaq sa e kanë kaluar dhe sa nuk e kanë kaluar kollokviumin. |
+| `kollokviumi_bllok_diagrami.png` | Bllok diagrami i programit `kollokviumi.cpp`. |
+| `kollokviumiAI.cpp` | Zgjerim i shembullit të mëparshëm: pragu i kalimit ruhet në konstanten `pragu`, ndërsa në ciklin `while` llogaritet edhe shuma e pikëve. Në fund shfaq numrin e studentëve, sa kanë kaluar dhe sa jo, mesataren e pikëve (me `setprecision(2)`) dhe kalueshmërinë në përqindje. |
+| `kollokviumiAI_bllok_diagrami.png` | Bllok diagrami i programit `kollokviumiAI.cpp`. |
 | `maksimumi.cpp` | Lexon numrin e anëtarëve `m` (me `do – while` derisa të jetë nga 1 deri në 100) dhe me ciklin `for` lexon anëtarët e vargut `d`. Vlera `max` merr anëtarin e parë, pastaj me ciklin `while` krahasohet secili anëtar tjetër me `max` dhe, nëse është më i madh, bëhet `max`. Në fund shfaqet vlera maksimale. |
 | `maksimumi_bllok_diagrami.png` | Bllok diagrami (nga tabela) i programit `maksimumi.cpp`. |
 
