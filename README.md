@@ -53,6 +53,7 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `maksimumi.cpp` | Lexon numrin e anëtarëve `m` (me `do – while` derisa të jetë nga 1 deri në 100) dhe me ciklin `for` lexon anëtarët e vargut `d`. Vlera `max` merr anëtarin e parë, pastaj me ciklin `while` krahasohet secili anëtar tjetër me `max` dhe, nëse është më i madh, bëhet `max`. Në fund shfaqet vlera maksimale. |
 | `maksimumi_bllok_diagrami.png` | Bllok diagrami (nga tabela) i programit `maksimumi.cpp`. |
 | `maksimalja.cpp` | Gjen vlerën maksimale në një varg me 7 anëtarë të dhënë në kod. Vlera `max` merr anëtarin e parë, pastaj me ciklin `while` krahasohet me secilin anëtar tjetër. Mesazhet `Test1`–`Test3` tregojnë sa herë ekzekutohet secila pjesë e programit. |
+| `maksimalja_bllok_diagrami.png` | Bllok diagrami i programit `maksimalja.cpp`. |
 | `mesatarja_skajeve.cpp` | Lexon dimensionet `m` dhe `n` (me `do – while` derisa të jenë nga 2 deri në 10) dhe anëtarët e matricës `a`. Me dy cikle `do – while` të ndërfutura mbledh anëtarët në skajet e matricës (rreshti i parë dhe i fundit, kolona e parë dhe e fundit) dhe shfaq mesataren e tyre `s / (2m + 2n − 4)`. |
 | `mesatarja_skajeve_bllok_diagrami.png` | Bllok diagrami (nga tabela) i programit `mesatarja_skajeve.cpp`. |
 
