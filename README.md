@@ -58,6 +58,8 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `mesatarja_skajeve_bllok_diagrami.png` | Bllok diagrami (nga tabela) i programit `mesatarja_skajeve.cpp`. |
 | `matrica_C.cpp` | Nga vargu `A` me `m = 7` anëtarë dhe matrica katrore `B` (m × m) formon matricën `C` me `m + 1` rreshta dhe `m + 1` kolona: `c_ij = b_ij` për `i ≤ m, j ≤ m`; në rreshtin e fundit vendosen anëtarët e vargut, `c_ij = a_(i−m+(j−1))` për `i > m, j ≤ m`; ndërsa kolona e fundit mbushet me `−5`. Matrica formohet me dy cikle `do – while` të ndërfutura dhe shtypet me `setw`. |
 | `matrica_C_bllok_diagrami.png` | Bllok diagrami (nga tabela) i programit `matrica_C.cpp`. |
+| `MesNotave.cpp` | Me dy cikle `do – while` të ndërfutura lexon notat e 5 studentëve në 6 lëndë në matricën `notat` (rreshtat janë studentët, kolonat lëndët). Pastaj, për secilën lëndë (kolonë), mbledh notat e të gjithë studentëve dhe shfaq mesataren `s / a`, duke përdorur konvertimin `(float)` që pjesëtimi të mos jetë i plotë. |
+| `MesNotave_bllok_diagrami.png` | Bllok diagrami i programit `MesNotave.cpp`. |
 
 ## Si të ekzekutohen shembujt
 
