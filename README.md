@@ -60,6 +60,8 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `matrica_C_bllok_diagrami.png` | Bllok diagrami (nga tabela) i programit `matrica_C.cpp`. |
 | `MesNotave.cpp` | Me dy cikle `do – while` të ndërfutura lexon notat e 5 studentëve në 6 lëndë në matricën `notat` (rreshtat janë studentët, kolonat lëndët). Pastaj, për secilën lëndë (kolonë), mbledh notat e të gjithë studentëve dhe shfaq mesataren `s / a`, duke përdorur konvertimin `(float)` që pjesëtimi të mos jetë i plotë. |
 | `MesNotave_bllok_diagrami.png` | Bllok diagrami i programit `MesNotave.cpp`. |
+| `VarguMeFunksione.cpp` | Shembull me funksione që punojnë mbi një varg me `m = 5` anëtarë: `Lexo` lexon anëtarët e vargut, `NumroCift` numëron anëtarët çift të ndryshëm nga zero, ndërsa `ProdhimiPozitiv` (me cikël `while`) llogarit prodhimin e anëtarëve pozitivë. Funksioni `main` i thërret me radhë dhe shtyp rezultatet. |
+| `VarguMeFunksione_bllok_diagrami.png` | Bllok diagrami i programit `VarguMeFunksione.cpp`, në katër pjesë: një për secilin funksion (`Lexo`, `NumroCift`, `ProdhimiPozitiv`) dhe në fund për funksionin `main`. |
 
 ## Si të ekzekutohen shembujt
 
