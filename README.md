@@ -62,6 +62,8 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `MesNotave_bllok_diagrami.png` | Bllok diagrami i programit `MesNotave.cpp`. |
 | `VarguMeFunksione.cpp` | Shembull me funksione që punojnë mbi një varg me `m = 5` anëtarë: `Lexo` lexon anëtarët e vargut, `NumroCift` numëron anëtarët çift të ndryshëm nga zero, ndërsa `ProdhimiPozitiv` (me cikël `while`) llogarit prodhimin e anëtarëve pozitivë. Funksioni `main` i thërret me radhë dhe shtyp rezultatet. |
 | `VarguMeFunksione_bllok_diagrami.png` | Bllok diagrami i programit `VarguMeFunksione.cpp`, në katër pjesë: një për secilin funksion (`Lexo`, `NumroCift`, `ProdhimiPozitiv`) dhe në fund për funksionin `main`. |
+| `VeprimetMeFunksione.cpp` | Shembull me funksione që punojnë mbi një varg me `m = 6` anëtarë: `Lexo` lexon anëtarët e vargut, `Shtyp` i shtyp me `setw(5)`, `Rrotullo` e kthen vargun mbrapsht (duke ndërruar anëtarin `i` me anëtarin `m − i + 1` deri në mes të vargut), ndërsa `NumroShumeshifroret` dhe `NumroNjeshifroret` numërojnë anëtarët me vlerë absolute më të madhe se 9, përkatësisht jo më të madhe se 9. Funksioni `main` e shtyp vargun para dhe pas rrotullimit dhe shfaq të dy numrat. |
+| `VeprimetMeFunksione_bllok_diagrami.png` | Bllok diagrami i programit `VeprimetMeFunksione.cpp`, në gjashtë pjesë: një për secilin funksion (`Lexo`, `Shtyp`, `Rrotullo`, `NumroShumeshifroret`, `NumroNjeshifroret`) dhe në fund për funksionin `main`. |
 
 ## Si të ekzekutohen shembujt
 
