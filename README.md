@@ -64,6 +64,8 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `VarguMeFunksione_bllok_diagrami.png` | Bllok diagrami i programit `VarguMeFunksione.cpp`, në katër pjesë: një për secilin funksion (`Lexo`, `NumroCift`, `ProdhimiPozitiv`) dhe në fund për funksionin `main`. |
 | `VeprimetMeFunksione.cpp` | Shembull me funksione që punojnë mbi një varg me `m = 6` anëtarë: `Lexo` lexon anëtarët e vargut, `Shtyp` i shtyp me `setw(5)`, `Rrotullo` e kthen vargun mbrapsht (duke ndërruar anëtarin `i` me anëtarin `m − i + 1` deri në mes të vargut), ndërsa `NumroShumeshifroret` dhe `NumroNjeshifroret` numërojnë anëtarët me vlerë absolute më të madhe se 9, përkatësisht jo më të madhe se 9. Funksioni `main` e shtyp vargun para dhe pas rrotullimit dhe shfaq të dy numrat. |
 | `VeprimetMeFunksione_bllok_diagrami.png` | Bllok diagrami i programit `VeprimetMeFunksione.cpp`, në gjashtë pjesë: një për secilin funksion (`Lexo`, `Shtyp`, `Rrotullo`, `NumroShumeshifroret`, `NumroNjeshifroret`) dhe në fund për funksionin `main`. |
+| `Numrimi_Shifrave.cpp` | Shembull me funksione që punojnë mbi shifrat e një numri të plotë (duke i ndarë me `i % 10` dhe `i / 10` në ciklin `while`): `NumroShifrat` numëron shifrat, `NumroZerot` numëron shifrat zero, `Prodhimi` llogarit prodhimin e shifrave që janë nga `a` deri në `b`, ndërsa `ShumaShifrave` llogarit shumën e shifrave. Funksioni `main` lexon `n`, `a` dhe `b`, i thërret funksionet me vlerat absolute dhe shtyp rezultatet. |
+| `Numrimi_Shifrave_bllok_diagrami.png` | Bllok diagrami i programit `Numrimi_Shifrave.cpp`, në pesë pjesë: një për secilin funksion (`NumroShifrat`, `NumroZerot`, `Prodhimi`, `ShumaShifrave`) dhe në fund për funksionin `main`. |
 
 ## Si të ekzekutohen shembujt
 
