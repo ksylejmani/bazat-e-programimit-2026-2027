@@ -70,6 +70,10 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `IsPrimeProg_bllok_diagrami.png` | Bllok diagrami i programit `IsPrimeProg.cpp`, në dy pjesë: për funksionin `IsPrime` dhe për funksionin `main`. |
 | `IsPrimeProg_AI.cpp` | Versioni i përmirësuar me AI: `IsPrime` i kthen menjëherë `false` numrat më të vegjël se 2 dhe provon pjesëtuesit derisa `i <= num / i`, `CountPrimes` numëron, ndërsa `SumPrimes` mbledh anëtarët e thjeshtë të vargut me `m = 7` anëtarë. Funksioni `main` lexon një numër, tregon nëse është i thjeshtë dhe shtyp numrin dhe shumën e vlerave të thjeshta në varg. |
 | `IsPrimeProg_AI_bllok_diagrami.png` | Bllok diagrami i programit `IsPrimeProg_AI.cpp`, në katër pjesë: një për secilin funksion (`IsPrime`, `CountPrimes`, `SumPrimes`) dhe në fund për funksionin `main`. |
+| `ProgramiOperatori.cpp` | Shembull me `enum operatori` (`VALA = 1`, `IPKO`, `KUJTESA`, `ART_MOTION`, `TELKOS`): funksioni `llogarit_taksat_ne_fitim` mbledh fitimet e vargut me `m = 6` anëtarë dhe, nëse shuma `s` është pozitive, e llogarit tatimin si `s` për `VALA`, përkatësisht `s · 0.1` për operatorët e tjerë. Funksioni `main` lexon operatorin si numër, e konverton me `static_cast<operatori>` dhe shtyp tatimin në fitim. |
+| `ProgramiOperatori_bllok_diagrami.png` | Bllok diagrami i programit `ProgramiOperatori.cpp`, në dy pjesë: për funksionin `llogarit_taksat_ne_fitim` dhe për funksionin `main`. |
+| `funksioni_me_fytyra.cpp` | Shembull i mbingarkimit të funksioneve (funksioni me disa fytyra): `shuma(vargu, m)` mbledh të gjithë anëtarët e vargut, `shuma(vargu, m, min, max)` mbledh anëtarët nga `min` deri në `max`, ndërsa `shuma(vargu, m, c)` mbledh anëtarët që janë të ndryshëm nga `c`. Funksioni `main` i përcakton `min` dhe `max` me operatorin `?:` dhe shtyp të tri shumat. |
+| `funksioni_me_fytyra_bllok_diagrami.png` | Bllok diagrami i programit `funksioni_me_fytyra.cpp`, në katër pjesë: një për secilën fytyrë të funksionit `shuma` dhe në fund për funksionin `main`. |
 
 ## Si të ekzekutohen shembujt
 
