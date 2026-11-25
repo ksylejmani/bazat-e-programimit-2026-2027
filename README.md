@@ -74,6 +74,10 @@ Për secilin program ka edhe një **bllok diagram** (skedar `.png`) që tregon h
 | `ProgramiOperatori_bllok_diagrami.png` | Bllok diagrami i programit `ProgramiOperatori.cpp`, në dy pjesë: për funksionin `llogarit_taksat_ne_fitim` dhe për funksionin `main`. |
 | `funksioni_me_fytyra.cpp` | Shembull i mbingarkimit të funksioneve (funksioni me disa fytyra): `shuma(vargu, m)` mbledh të gjithë anëtarët e vargut, `shuma(vargu, m, min, max)` mbledh anëtarët nga `min` deri në `max`, ndërsa `shuma(vargu, m, c)` mbledh anëtarët që janë të ndryshëm nga `c`. Funksioni `main` i përcakton `min` dhe `max` me operatorin `?:` dhe shtyp të tri shumat. |
 | `funksioni_me_fytyra_bllok_diagrami.png` | Bllok diagrami i programit `funksioni_me_fytyra.cpp`, në katër pjesë: një për secilën fytyrë të funksionit `shuma` dhe në fund për funksionin `main`. |
+| `mbingarkimi.cpp` | Shembull i mbingarkimit të funksioneve në vargun e fitimeve/humbjeve ditore me `m = 6` anëtarë: `fitimi(vargu, int m)` numëron ditët me fitim (`vargu[i] > 0`), `fitimi(vargu, float m)` – i thirrur me `(float)m` – numëron ditët me fitim shumëshifror (`vargu[i] > 9`), ndërsa `humbja(vargu, m)` numëron ditët me humbje (`vargu[i] < 0`). Funksioni `main` shtyp të tri rezultatet. |
+| `mbingarkimi_bllok_diagrami.png` | Bllok diagrami i programit `mbingarkimi.cpp`, në katër pjesë: për dy fytyrat e funksionit `fitimi`, për funksionin `humbja` dhe në fund për funksionin `main`. |
+| `veglat_ai.cpp` | Shembull me `enum ai` (`chatGPT = 1`, `claude`, `Grok`, `Copilot`, `Gemini`): funksioni `diferenca_njepasnjeshme` mbledh diferencat `vargu[i] - vargu[i-1]` të anëtarëve të njëpasnjëshëm dhe, nëse vegla është `chatGPT` ose `claude`, e shumëzon rezultatin me 0.8; funksioni `diferenca_cifteve` mbledh diferencat e çifteve `vargu[i] - vargu[i+1]` me hap `i += 2`. Mesazhet `TEST_A`, `TEST_B` dhe `TEST_C` tregojnë rrjedhën e ekzekutimit. |
+| `veglat_ai_bllok_diagrami.png` | Bllok diagrami i programit `veglat_ai.cpp`, në tri pjesë: për funksionet `diferenca_njepasnjeshme` dhe `diferenca_cifteve` dhe në fund për funksionin `main`. |
 
 ## Si të ekzekutohen shembujt
 
